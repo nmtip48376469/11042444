@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 out.close();
 test.init();
 Connection con;
