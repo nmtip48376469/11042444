@@ -1,3 +1,4 @@
+out.close();
 test.init();
 Connection con;
 String driverClass = "oracle.jdbc.driver.OracleDriver";
